@@ -1,0 +1,23 @@
+FINAL_COL=Final Score
+MIN_VALID_FRAC=0.5
+TOP_N_BAR=25
+TOP_N_HEATMAP=12
+
+Excluded patterns (regex):
+ - \bcurrent score\b
+ - \bunposted\b
+ - \bfinal score\b
+ - \bfinal exam\b
+ - \bmidterm exam\b.*final score
+ - \bwebassign\b.*\bfinal score\b
+ - \battendance\b.*\bfinal score\b
+ - \btest\s*\(\s*\d+%\s*\)\b.*\bfinal score\b
+ - \bhomework\b.*\bfinal score\b
+ - \bquizzes\b.*\bfinal score\b
+ - \bassignments\b.*\bfinal score\b
+ - \bcategory\b.*\bfinal score\b
+ - \b\(\s*\d+%\s*\)\b.*\bfinal score\b
+ - \b\(\s*\d+%\s*\)\b.*\bcurrent score\b
+ - \b\(\s*\d+%\s*\)\b.*\bunposted\b
+
+Predictor columns used: 62
