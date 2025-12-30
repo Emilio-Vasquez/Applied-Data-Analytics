@@ -31,7 +31,7 @@ Applied analytics projects using public datasets to examine access, equity, and 
   A county-level comparative analysis of Dental HPSA designation intensity, severity, and designation-type mix
   across New Jersey, using ACS proxies (% foreign-born, race/ethnicity shares, limited-English households)
   to define demographic context groups without over-claiming causality.  
-  Path: `public-health/nj-dental-hpsa-equity/`
+  Path: `dental-healthcare/`
 
 ---
 
