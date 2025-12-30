@@ -25,5 +25,5 @@ How do Dental HPSA designation patterns differ between counties with high immigr
 ## Run
 1. Put HRSA input file(s) into `data/raw/` (see `data/raw/README.md`)
 2. Create env and install deps:
-   - `pip install -r environment/requirements.txt`
-3. Run notebooks in `notebooks/`
+   - The required installiations are already on the notebook folder and the `Analysis.ipynb`
+3. Run notebook
