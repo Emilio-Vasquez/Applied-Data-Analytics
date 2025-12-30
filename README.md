@@ -20,7 +20,18 @@ Current work focuses on analytics conducted within academic institutional contex
 Applied analytics projects centered on curriculum effectiveness, student outcomes, program pathways,
 and institutional decision support using real LMS and administrative data.
 
-Additional domains (healthcare, finance) will be added as future projects are completed.
+### Public Health
+Applied analytics projects using public datasets to examine access, equity, and policy-relevant patterns (shortage designations, population context, and geographic comparisons).
+
+---
+
+## Featured Projects
+
+- **NJ Dental HPSA Equity (Comparative County Patterns)**  
+  A county-level comparative analysis of Dental HPSA designation intensity, severity, and designation-type mix
+  across New Jersey, using ACS proxies (% foreign-born, race/ethnicity shares, limited-English households)
+  to define demographic context groups without over-claiming causality.  
+  Path: `public-health/nj-dental-hpsa-equity/`
 
 ---
 
